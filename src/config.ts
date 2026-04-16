@@ -1,11 +1,11 @@
 export const siteConfig = {
-  name: "Jaya Naga Sai Jithendra Mamidi",
+  name: "Jaya Sai Naga Jithendra Mamidi",
   title: "Student",
   description: "Portfolio website of Jaya Naga Sai Jithendra",
   accentColor: "#0037ff",
   social: {
     email: "jithendramamidi116@gmail.com",
-    linkedin: "https://linkedin.com/in/jaya-naga-sai-jithendra-mamidi-73380232b",
+    linkedin: "https://www.linkedin.com/in/jaya-sai-naga-jithendra-mamidi-73380232b/",
     github: "https://github.com/Jithendra-01",
   },
   aboutMe:
@@ -48,7 +48,7 @@ export const siteConfig = {
   //],
   education: [
     {
-      school: "DVR & Dr.Hs MIC College ot Technology",
+      school: "DVR & Dr.Hs MIC College of Technology",
       degree: "Bachelor of Technology in Computer Science and Engineering",
       dateRange: "2023 - 2027 (ongoing)",
       achievements: [
@@ -63,7 +63,6 @@ export const siteConfig = {
       dateRange: "2021-2023",
       achievements: [
         "Graduated with honors with zero-backlogs",
-        "",
       ],
     },
     {
