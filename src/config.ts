@@ -16,7 +16,7 @@ export const siteConfig = {
       name: "Attendance Management",
       description:
         "A fullStack android application which is used to take attendance across the campus for multiple faculty as well as a HOD dashboard for monitoring and Analytics",
-      link: "#",
+      link: "https://github.com/Jithendra-01/campus-check-in-Attendance-Managment-System",
       skills: ["React", "Node.js", "Mongodb"],
     },
     {
@@ -30,7 +30,7 @@ export const siteConfig = {
       name: "To-do list",
       description:
         "A web based task management system that helps users to organise and track their daily activities .",
-      link: "#",
+      link: "https://github.com/Jithendra-01/To-Do-Magic",
       skills: ["React", "Node.js"],
     },
   ],
